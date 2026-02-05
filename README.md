@@ -2,7 +2,7 @@
 A vertical chatbot for querying documents using LLM and LlamaIndex
 
 
-## Build The CNN model
+## Setup
 
 1. Clone the project to local: ```git clone git@github.com:everhettoo/docbot.git```
 2. Create a virtual environment (if needed): ```python -m venv venv``` 
