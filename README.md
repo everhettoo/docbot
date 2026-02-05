@@ -1,5 +1,6 @@
 # docbot
-A vertical chatbot for querying documents using LLM and LlamaIndex
+A vertical chatbot for querying documents using LLM and LlamaIndex.
+Data files are preprocessed in the format the docbot requires for building the vector data for retrieval. It can be found inside ```data``` folder.
 
 
 ## Setup
