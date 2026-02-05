@@ -1,6 +1,7 @@
 # docbot
 A vertical chatbot for querying documents using LLM and LlamaIndex.
 </br>Data files are preprocessed in the format the docbot requires for building the vector data for retrieval. It can be found inside ```data``` folder.
+<p> Start asking questions like "who is the teacher in the story? etc. Read the texts inside the data folder to ask more contextual questions"</p>
 
 
 ## Setup
